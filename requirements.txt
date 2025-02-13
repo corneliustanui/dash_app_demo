@@ -14,6 +14,7 @@ decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
 executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 Flask @ file:///C:/b/abs_f9w7doyu0h/croot/flask_1716545924884/work
 Flask-Compress @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/flask-compress_1699484369051/work
+gunicorn==23.0.0
 idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
 importlib_metadata @ file:///C:/b/abs_9d0lp1ysmt/croot/importlib_metadata-suite_1732633510972/work
 ipykernel @ file:///C:/b/abs_6c9ggygp01/croot/ipykernel_1737660720620/work
