@@ -1,2 +1,2 @@
-# dash_app_demo
-Demonstrate use cases of Dash web app.
+# Dash App Demo
+Demonstrate use cases of the Dash web app.
